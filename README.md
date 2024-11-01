@@ -1,7 +1,9 @@
 ﻿# Capital Bikeshare Data Analysis and Bike Demand Prediction at Rush hour Project
 ## Description
 An analysis of mobility datasets provided by Capital Bikeshare, a bike-sharing company in Washington DC. For an overview of the techniques employed and results, download the [EDA Presentation]([url](https://github.com/Paul-Sabin/Capital-Bikeshare/blob/main/EDA%20Presentation%20for%20Capital%20Bikeshare.pptx)) and [Machine Learning Presentation]([url](https://github.com/Paul-Sabin/Capital-Bikeshare/blob/main/Machine%20Learning%20Presentation%20for%20Capital%20Bikeshare.pptx)) (Powerpoint) 
+
 https://github.com/Paul-Sabin/Capital-Bikeshare/blob/main/EDA%20Presentation%20for%20Capital%20Bikeshare.pptx 
+
 https://github.com/Paul-Sabin/Capital-Bikeshare/blob/main/Machine%20Learning%20Presentation%20for%20Capital%20Bikeshare.pptx
 
 ## Features
